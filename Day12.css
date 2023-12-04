@@ -1,0 +1,28 @@
+h1{
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+    color: rgb(212, 45, 19)    ;
+
+    text-align: center;
+
+    text-shadow: 4px 6px 8px rgb(0, 12, 12);
+
+    font-size: 60px;
+
+    letter-spacing: 0px;
+
+    font-weight: 500px;
+
+    transform:scale(1,1);
+}
+body{
+    background-color: rgb(246, 247, 246);
+}
+
+button{
+
+    color: darkred;
+
+    
+}
